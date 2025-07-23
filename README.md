@@ -1,5 +1,3 @@
-# walmart-flyer-scraper
-
 # Walmart Flyer Scraper + Viewer
 
 This project scrapes the latest Walmart flyer from Flipp.com and displays it in a searchable, interactive Streamlit app.
